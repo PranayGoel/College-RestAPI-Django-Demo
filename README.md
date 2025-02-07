@@ -1,1 +1,0 @@
-# College-RestAPI-Django-Demo
